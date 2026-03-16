@@ -44,7 +44,7 @@ A technical guide on setting up the Build System to seamlessly integrate C code 
 
 ## 📫 Connect with me
 
-* 💼 **LinkedIn:** [Vincenzo Del Grosso](https://www.linkedin.com/in/vincenzo-del-grosso/)
+* 💼 **LinkedIn:** [Vincenzo Del Grosso](https://www.linkedin.com/in/vincenzo-del-grosso-991161220/)
 * 🐙 **GitHub:** [cienzman](https://github.com/cienzman)
 * 📍 **Base:** Milan, Italy
 
