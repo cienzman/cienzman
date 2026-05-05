@@ -1,4 +1,5 @@
 # Hi 👋, I'm Vincenzo Del Grosso (cienz) 
+💼 **LinkedIn:** [Vincenzo Del Grosso](https://www.linkedin.com/in/vincenzo-del-grosso-991161220/)
 
 ### MSc Student in Computer Science & Engineering @ Politecnico di Milano | AI & Robotics Specialist
 
